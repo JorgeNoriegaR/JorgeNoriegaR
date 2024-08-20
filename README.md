@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jorge</h1>
 <h3 align="center">Ingeniero en software apasionado por la creación de soluciones tecnológicas.</h3>
 
-**"Yo soy absolutamente nadie" Esta declaración no implica insignificancia, sino mas bien una renuncia a la búsqueda constante de validación externa.**
+**Yo soy absolutamente nadie" Esta declaración no implica insignificancia, sino mas bien una renuncia a la búsqueda constante de validación externa.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
